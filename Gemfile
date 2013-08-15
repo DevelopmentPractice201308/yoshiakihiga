@@ -19,7 +19,7 @@ group :assets do
  end
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-  # gem 'therubyracer', :platforms => :ruby
+ gem 'therubyracer', :platforms => :ruby
 
 gem 'jquery-rails','2.0.2'
 
